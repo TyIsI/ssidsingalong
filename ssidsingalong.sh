@@ -1,12 +1,5 @@
 #!/bin/sh
 
-###if [ ! -f "$1" ] ; then
- ###echo "Missing file!"
- ###echo ""
- ###echo "Usage: `basename $0` <song file>"
- ###exit
-###fi
-
 TEMPLATE=hostapd.template
 CONF=hostapd.conf
 

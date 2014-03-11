@@ -1,0 +1,7 @@
+interface=wlan0
+channel=5
+bssid=%BSSID%
+ssid=%SSID%
+beacon_int=100
+access_network_type=3
+hw_mode=g
